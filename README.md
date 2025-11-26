@@ -1,3 +1,29 @@
+
+# Submission 1 – Booking System (Frontend)
+
+## Project Origin and Context:
+	•	Project retrieved from my github created with my student email account due to loss of access.
+	•	Originally completed as part of the course: 62582 - Complex Systems and Devops.
+	•	Original submission date: Nov, 2021.
+	•	Re-uploaded to this GitHub repository for reference and portfolio purposes.
+  
+## Install React:
+	1.	Open your terminal (e.g., PowerShell).
+	2.	Create a new project folder: mkdir reactApp and navigate to it: cd reactApp.
+	3.	Install React by running: create-react-app. This will install a tool that sets up everything needed to run a React.js application.
+	4.	You can now start your new React app by running: npm start.
+
+## Install Node.js:
+	•	Download and install Node.js from: https://nodejs.org/en/download/
+
+## Running the code:
+	1.	Download the zip file.
+	2.	Make sure you have an IDE that supports React (or follow the steps above to set up React).
+	3.	Install Node.js if you haven’t already (see instructions above).
+	4.	Unzip the file (you can open it in your IDE).
+	5.	In the terminal, run: npm install.
+	6.	Finally, start the app by running: npm start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
