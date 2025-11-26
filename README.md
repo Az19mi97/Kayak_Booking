@@ -1,5 +1,5 @@
 
-# Submission 1 – Booking System (Frontend)
+# Project – Booking System (Frontend)
 
 ## Project Origin and Context:
 	•	Project retrieved from my github created with my student email account due to loss of access.
