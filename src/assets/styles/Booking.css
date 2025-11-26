@@ -1,0 +1,67 @@
+
+.bookingFlow {
+    border-top: solid #e2e2e2;
+    margin-top: 10px;
+}
+
+.bookingFlow>ul {
+    padding-left: 0px;
+}
+
+.bookingFlow>ul>li {
+    list-style: none;
+    width: 25%;
+    float: left;
+    padding: 10px;
+    background: #fff2cc;
+}
+
+.bookingFlow>ul> .active {
+    background: #aa8d31 !important;
+}
+
+.bookingFlow>ul> .active>div>h3 {
+    color: #fff;
+}
+
+.bookingFlow>ul>li>div>h3 {
+    float: left;
+    margin-left: 7px;
+}
+.flowing {
+    border-top: solid #e2e2e2;
+    margin-top: 13px;
+}
+
+.flowing>ul {
+    padding-left: 0px;
+}
+
+.flowing>ul>li {
+    list-style: none;
+    width: 25%;
+    float: left;
+    padding: 20px;
+    background: #ffd966;
+}
+
+.flowing>ul> .active {
+    background: #ffd966 !important;
+}
+
+.flowing>ul> .active>div>h3 {
+    color: #fff;
+}
+
+.flowing>ul>li>div>h3 {
+    float: left;
+    margin-left: 10px;
+}
+
+.circle {
+    background-color: #fff;
+    border: 2px solid gray;
+    height: 60px;
+    width: 60px;
+    float: left;
+}
